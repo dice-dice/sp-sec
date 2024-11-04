@@ -39,8 +39,7 @@
 			<version>3.10.1</version>
 		</dependency>
 
-		<!-- dependenciesタグ内に、以下の4つを追加します -->
-		<dependency>
+				<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
 			<version>5.2.3</version>
